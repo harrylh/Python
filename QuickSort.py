@@ -1,3 +1,4 @@
+#!/bin/python
 
 def QuickSort(arr, l, r): # l: left of arr[], r: right of arr[]
 
